@@ -8,3 +8,8 @@ CFI’s Business Intelligence & Data Analyst (BIDA) Certification Program will t
 >Our business intelligence courses cover both BI and Data Science helping you develop skills in all areas: from data storage and collection, data transformation, data analysis, and modeling, to data visualization.
 
 [CFI BIDA Program](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+
+# Certificates Achieved
+---
+PowerQuery Fundementals
+https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54214448
