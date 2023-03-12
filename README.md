@@ -9,7 +9,3 @@ CFI’s Business Intelligence & Data Analyst (BIDA) Certification Program will t
 
 [CFI BIDA Program](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
 
-# Certificates Achieved
----
-PowerQuery Fundementals
-![PowerQuery Fundementals](http://credentials.corporatefinanceinstitute.com/d5c71f15-9a5a-40d1-8301-d5df9a245305)
