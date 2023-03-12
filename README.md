@@ -14,34 +14,31 @@ CFI’s Business Intelligence & Data Analyst (BIDA) Certification Program will t
 |  Course Name | Completion Date | Course Certificate  | NASBA CPE Certificate   |
 |---|---|---|---|
 | Introduction to Business Intelligence  | Nov 24, 2022	  | View | View  | 
-| Data Science & Machine Learning Fundamentals |   |   |   |   |
-| Statistics Fundamentals  |   |   |   |   |
-| Excel Fundamentals - Formulas for Finance|
-
-	7%	Nov 29, 2022	1	View	N/A
-	87%	May 11, 2021	2	View	View
-Fundamentals of Data Analysis in Excel	-		0	View	View
-Power Query Fundamentals	94%	Jul 06, 2022	1	View	View
-Power BI Fundamentals	80%	Oct 27, 2022	1	View	View
-Power Pivot Fundamentals	93%	Nov 02, 2022	1	View	View
-SQL Fundamentals	93%	Nov 23, 2022	1	View	View
-Tableau Fundamentals	80%	Jan 04, 2023	1	View	View
-Dashboards & Data Visualization	100%	Jan 06, 2023	2	View	View
-Case Study - Financial Statements in Power BI	-		0	View	View
-Case Study - Trading Dashboard in Tableau	-		0	View	View
-Python Fundamentals	-		0	View	View
-Regression Analysis - Fundamentals & Practical Applications	-		0	View	View
-Classification - Fundamentals & Practical Applications	-		0	View	View
-Modeling Risk with Monte Carlo Simulation	-		0	View	View
-Loan Default Prediction with Machine Learning	-		0	View	View
-Professional Ethics	-		0	View	View
-Advanced Power BI	-		0	View	View
-Advanced Tableau - LOD Calculations	-		0	View	View
-Advanced Tableau - Data Model	-		0	View	View
-Advanced Excel Formulas & Functions	-		0	View	View
-Excel VBA for Finance	-		0	View	View
-Data Prep for Machine Learning in Python	-		0	View	View
-Bayesian Thinking	-		0	View	View
-R Fundamentals	-		0	View	View
-Enterprise Deployment & Governance: Power BI Edition	-		0	View	View
-Graph Database Fundamentals	-		0	View	View
+| Data Science & Machine Learning Fundamentals |   |   |   |   
+| Statistics Fundamentals  |   |   |   |   
+| Excel Fundamentals - Formulas for Finance| May 11, 2021| View | View |
+| Fundamentals of Data Analysis in Excel| | | |
+|Power Query Fundamentals | Jul 06, 2022 | View	| View|
+|Power BI Fundamentals	| Oct 27, 2022 | View |	View|
+|Power Pivot Fundamentals | Nov 02, 2022 | View	| View|
+|SQL Fundamentals | Nov 23, 2022| View	| View|
+|Tableau Fundamentals	| Jan 04, 2023	| View | View |
+|Dashboards & Data Visualization | Jan 06, 2023	| View | View|
+|Case Study - Financial Statements in Power BI	| | | |
+|Case Study - Trading Dashboard in Tableau	| | | |	
+|Python Fundamentals	| | | |
+|Regression Analysis - Fundamentals & Practical Applications	| | | |
+|Classification - Fundamentals & Practical Applications		| | | |
+|Modeling Risk with Monte Carlo Simulation		| | | |
+|Loan Default Prediction with Machine Learning	| | | |
+|Professional Ethics	| | | |
+|Advanced Power BI		| | | |
+|Advanced Tableau - LOD Calculations		| | | |
+|Advanced Tableau - Data Model		| | | |
+|Advanced Excel Formulas & Functions		| | | |
+|Excel VBA for Finance	-			| | | |
+|Data Prep for Machine Learning in Python		| | | |
+|Bayesian Thinking	| | | |
+|R Fundamentals		| | | |
+|Enterprise Deployment & Governance: Power BI Edition		| | | |
+|Graph Database Fundamentals		| | | |
