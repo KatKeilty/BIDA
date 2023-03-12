@@ -12,4 +12,4 @@ CFI’s Business Intelligence & Data Analyst (BIDA) Certification Program will t
 # Certificates Achieved
 ---
 PowerQuery Fundementals
-![PowerQuery Fundementals](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54214448)
+![PowerQuery Fundementals](http://credentials.corporatefinanceinstitute.com/d5c71f15-9a5a-40d1-8301-d5df9a245305)
